@@ -1,1 +1,1 @@
-worker: python getrandom2.py
+worker python getrandom2.py
